@@ -10,6 +10,11 @@
     "@jridgewell/gen-mapping" "^0.1.0"
     "@jridgewell/trace-mapping" "^0.3.9"
 
+"@aws-cdk/aws-lambda-python-alpha@^2.21.1-alpha.0":
+  version "2.21.1-alpha.0"
+  resolved "https://registry.yarnpkg.com/@aws-cdk/aws-lambda-python-alpha/-/aws-lambda-python-alpha-2.21.1-alpha.0.tgz#7ab74578c2def5010e48b6d5a1708c52df40ce47"
+  integrity sha512-P3uRY5LCG0EttPFp/z9S7KKINMXp2Qw/KvgGC9ylZPpxW9h88ULFcG1uXreoKbCYiw3fGLFDHRmsTmDrfjfy1Q==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.12.13", "@babel/code-frame@^7.16.7":
   version "7.16.7"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.16.7.tgz#44416b6bd7624b998f5b1af5d470856c40138789"
