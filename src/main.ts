@@ -26,7 +26,6 @@ export class MyStack extends Stack {
       entry: path.join(
         __dirname,
         "..",
-        "assets",
         "lambda",
         "offensiveTextModeratorFunction"
       ),
